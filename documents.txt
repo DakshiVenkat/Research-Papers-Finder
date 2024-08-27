@@ -1,0 +1,151 @@
+using machine learning analyses to explore relations between eyewitness lineup looking behaviors and suspect guilt
+building a cardiovascular disease prediction model for smartwatch users using machine learning: based on the korea national health and nutrition examination survey
+mitigating underreported error in food frequency questionnaire data using a supervised machine learning method and error adjustment algorithm
+from nmr to ai: designing a novel chemical representation to enhance machine learning predictions of physicochemical properties
+feature engineering solution with structured query language analytic functions in detecting electricity frauds using machine learning
+using machine learning analyses to explore relations between eyewitness lineup looking behaviors and suspect guilt
+building a cardiovascular disease prediction model for smartwatch users using machine learning: based on the korea national health and nutrition examination survey
+mitigating underreported error in food frequency questionnaire data using a supervised machine learning method and error adjustment algorithm
+from nmr to ai: designing a novel chemical representation to enhance machine learning predictions of physicochemical properties
+feature engineering solution with structured query language analytic functions in detecting electricity frauds using machine learning
+identification of protein complexes by integrating protein abundance and interaction features using a deep learning strategy
+deep learning based radiomics for gastrointestinal cancer diagnosis and treatment: a minireview
+using machine learning to improve personalised prediction: a data-driven approach to segment and stratify populations for healthcare
+verifying explainability of a deep learning tissue classifier trained on rna-seq data
+development of deep learning technique of features for the analysis of clinical images integrated with cann
+machine learning for neural decoding
+an analysis framework for clustering algorithm selection with applications to spectroscopy
+a machine learning approach to discover migration modes and transition dynamics of heterogeneous dendritic cells
+use of a wearable electromyography armband to detect lift-lower tasks and classify hand loads
+using machine learning analyses to explore relations between eyewitness lineup looking behaviors and suspect guilt
+building a cardiovascular disease prediction model for smartwatch users using machine learning: based on the korea national health and nutrition examination survey
+mitigating underreported error in food frequency questionnaire data using a supervised machine learning method and error adjustment algorithm
+from nmr to ai: designing a novel chemical representation to enhance machine learning predictions of physicochemical properties
+feature engineering solution with structured query language analytic functions in detecting electricity frauds using machine learning
+identification of protein complexes by integrating protein abundance and interaction features using a deep learning strategy
+deep learning based radiomics for gastrointestinal cancer diagnosis and treatment: a minireview
+using machine learning to improve personalised prediction: a data-driven approach to segment and stratify populations for healthcare
+verifying explainability of a deep learning tissue classifier trained on rna-seq data
+development of deep learning technique of features for the analysis of clinical images integrated with cann
+machine learning for neural decoding
+an analysis framework for clustering algorithm selection with applications to spectroscopy
+a machine learning approach to discover migration modes and transition dynamics of heterogeneous dendritic cells
+use of a wearable electromyography armband to detect lift-lower tasks and classify hand loads
+data analytics for cardiac diseases
+novel criteria to classify ards severity using a machine learning approach
+inferring biophysical properties of membranes during endocytosis using machine learning
+a machine learning framework for auto classification of imaging system exams in hospital setting for utilization optimization
+machine learning methods for imbalanced data set for prediction of faecal contamination in beach waters
+using machine learning to uncover the relation between age and life satisfaction
+predicting blood pressure from physiological index data using the svr algorithm
+a low-cost machine learning framework for predicting drug-drug interactions based on fusion of multiple features and a parameter self-tuning strategy
+recent advancements in machine learning and deep learning-based breast cancer detection using mammograms
+analysis of cattle social transitional behaviour: attraction and repulsion
+[deep learning and neuronal networks in ophthalmology : applications in the field of optical coherence tomography]
+enhancement of microbiome management by machine learning for biological wastewater treatment
+recent advances in the machine learning-based drug-target interaction prediction
+basic artificial intelligence techniques: machine learning and deep learning
+computer aid screening of covid-19 using x-ray and ct scan images: an inner comparison
+machine learning for the prediction of volume responsiveness in patients with oliguric acute kidney injury in critical care
+machine learning-assisted optimization of tbbpa-bis-(2,3-dibromopropyl ether) extraction process from abs polymer
+statistical machine-learning methods for genomic prediction using the skm library
+training and evaluating machine learning algorithms for ocean microplastics classification through vibrational spectroscopy
+photorealistic monocular gaze redirection using machine learning
+bayesian deep learning for error estimation in the analysis of anomalous diffusion
+exploring abnormal behavior patterns of online users with emotional eating behavior: topic modeling study
+rapid prediction of bacterial heterotrophic fluxomics using machine learning and constraint programming
+machine learning approach for the detection of vitamin d level: a comparative study
+application of distributed probability model in sports based on deep learning: deep belief network (dl-dbn) algorithm for human behaviour analysis
+machine learning, artificial intelligence and the prediction of dementia
+deepnec: a novel alignment-free tool for the identification and classification of nitrogen biochemical network-related enzymes using deep learning
+towards an explainable universal feature set for iot intrusion detection
+implementation of a heart disease risk prediction model using machine learning
+representation transfer for differentially private drug sensitivity prediction
+the proposition and evaluation of the roedunet-simargl2021 network intrusion detection dataset
+a model for predicting cervical cancer using machine learning algorithms
+session introduction: ai-driven advances in modeling of protein structure
+text-based emotion recognition using deep learning approach
+machine learning methods for anomaly classification in wastewater treatment plants
+generative imputation and stochastic prediction
+intelligent analysis of carbendazim in agricultural products based on a zshpc/mwcnt/spe portable nanosensor combined with machine learning methods
+mind: a multi-source data fusion scheme for intrusion detection in networks
+decoding deep learning applications for diagnosis and treatment planning
+overcoming the field-of-view to diameter trade-off in microendoscopy via computational optrode-array microscopy
+film: filtering and machine learning for malware detection in edge computing
+machine learning the frontier orbital energies of subpc based triads
+a topological data analysis based classification method for multiple measurements
+machine learning aided dimensionality reduction toward a resource efficient projective quantum eigensolver: formal development and pilot applications
+a wrapper feature subset selection method based on randomized search and multilayer structure
+good machine learning practices: learnings from the modern pharmaceutical discovery enterprise
+pheno-deep counter: a unified and versatile deep learning architecture for leaf counting
+solving the problem of imbalanced dataset with synthetic image generation for cell classification using deep learning
+a comparative study of traffic classification techniques for smart city networks
+basic research for identification and classification of organophosphorus pesticides in water based on ultraviolet-visible spectroscopy information
+characterizing opioid overdoses using emergency medical services data : a case definition algorithm enhanced by machine learning
+machine learning of reaction properties via learned representations of the condensed graph of reaction
+machine learning in clinical decision making
+machine learning of diffraction image patterns for accurate classification of cells modeled with different nuclear sizes
+machine learning in magnetic resonance imaging: image reconstruction
+machine learning strategy for soil nutrients prediction using spectroscopic method
+spatial modeling of maritime risk using machine learning
+investigations of severity level measurements for diabetic macular oedema using machine learning algorithms
+supervised representation learning based on various levels of pediatric radiographic views for transfer learning
+detection of anemic condition in patients from clinical markers and explainable artificial intelligence
+extraction and assessment of diagnosis-relevant features for heart murmur classification
+machine learning approaches for quality assessment of protein structures
+deep learning approaches outperform conventional strategies in de-identification of german medical reports
+an accurate deep learning model for clinical entity recognition from clinical notes
+research on a learning rate with energy index in deep learning
+application of network link prediction in drug discovery
+on the synergies between machine learning and binocular stereo for depth estimation from images: a survey
+screening automation in systematic reviews: analysis of tools and their machine learning capabilities
+machine learning and clinical neurophysiology
+cross deep learning method for effectively detecting the propagation of iot botnet
+optncminer: a deep learning approach for the discovery of natural compounds modulating disease-specific multi-targets
+a generative adversarial network based a rolling bearing data generation method towards fault diagnosis
+machine learning based covid -19 disease recognition using ct images of sirm database
+machine learning assisted metamaterial-based reconfigurable antenna for low-cost portable electronic devices
+prediction of mental health support of employee perceiving by using machine learning methods
+on the safety of machine learning: cyber-physical systems, decision sciences, and data products
+rank-based pooling for deep convolutional neural networks
+rootpainter: deep learning segmentation of biological images with corrective annotation
+towards quality management of artificial intelligence systems for medical applications
+interactive deep learning for shelf life prediction of muskmelons based on an active learning approach
+hdl-ids: a hybrid deep learning architecture for intrusion detection in the internet of vehicles
+feature fusion via deep random forest for facial age estimation
+increasing efficiency and accuracy of magnetic interaction calculations in colloidal simulation through machine learning
+reaching the ceiling? empirical scaling behaviour for deep eeg pathology classification
+a joint model provisioning and request dispatch solution for low-latency inference services on edge
+the identification of gene signatures in patients with extranodal nk/t-cell lymphoma from a pair of twins
+massive technological unemployment without redistribution: a case for cautious optimism
+combining molecular dynamics and machine learning to predict self-solvation free energies and limiting activity coefficients
+enhancing construction safety: predicting worker sleep deprivation using machine learning algorithms
+machine learning for radiomics-based multimodality and multiparametric modeling
+enhancing the efficacy of depression detection system using optimal feature selection from ehr
+ml-net: multi-label classification of biomedical texts with deep neural networks
+endoluminal larynx anatomy model - towards facilitating deep learning and defining standards for medical images evaluation with artificial intelligence algorithms
+unsupervised foveal vision neural architecture with top-down attention
+identifying ethical considerations for machine learning healthcare applications
+bayesian supervised machine learning classification of neural networks with pathological perturbations
+machine learning-based guilt detection in text
+supervised and unsupervised algorithms for bioinformatics and data science
+modeling microbial communities: perspective and challenges
+special series guest editorial: artificial intelligence and machine learning in biomedical optics
+machine learning-based anomaly detection in nfv: a comprehensive survey
+source-free unsupervised domain adaptation: a survey
+machine learning of microscopic ingredients for graphene oxide/cellulose interaction
+prediction of alternative gasoline sorption in a semicrystalline poly(ethylene)
+a performance comparison of supervised machine learning models for covid-19 tweets sentiment analysis
+deep learning for time series forecasting: a survey
+instantdl: an easy-to-use deep learning pipeline for image segmentation and classification
+development and validation of smartwatch-based activity recognition models for rigging crew workers on cable logging operations
+comparing classification models-a practical tutorial
+ml-based delay attack detection and isolation for fault-tolerant software-defined industrial networks
+four generations of high-dimensional neural network potentials
+novel internet of things based approach toward diabetes prediction using deep learning models
+an alternative to the black box: strategy learning
+supervised learning and model analysis with compositional data
+(machine-)learning to analyze in vivo microscopy: support vector machines
+deep multiphysics: coupling discrete multiphysics with machine learning to attain self-learning in-silico models replicating human physiology
+nonlinear dynamics based machine learning: utilizing dynamics-based flexibility of nonlinear circuits to implement different functions
+neural network training as a dissipative process

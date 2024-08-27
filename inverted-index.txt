@@ -1,0 +1,1378 @@
+using
+0 1 2 4 5 6 7 9 10 12 19 20 21 23 24 26 34 35 38 39 41 47 50 52 55 59 61 64 66 80 83 88 89 90 105 107 121 123 144
+machine
+0 1 2 3 4 5 6 7 8 9 12 15 17 19 20 21 22 23 26 29 31 34 35 36 37 38 40 41 44 45 46 48 49 51 52 55 56 58 61 64 67 69 73 74 76 78 83 84 85 86 87 88 89 90 94 99 100 101 105 106 107 108 115 120 121 122 127 128 129 132 133 135 137 148 149
+learning
+0 2 3 4 5 7 8 9 10 11 12 13 14 15 17 19 21 22 23 24 25 26 27 28 29 31 34 35 36 37 38 40 41 43 44 46 46 48 51 52 53 55 56 59 61 64 66 67 69 71 73 74 76 78 79 80 83 84 85 86 87 88 89 90 91 91 94 95 96 97 97 99 100 101 102 103 105 106 107 110 112 112 113 115 120 121 122 125 127 128 132 135 137 138 139 144 145 146 148
+analyses
+0 5 19
+to
+0 3 3 5 8 8 12 12 16 17 18 19 22 22 26 26 30 31 32 34 38 72 120 145 147 148 149
+explore
+0 5 19
+relations
+0 5 19
+between
+0 5 19 38 99
+eyewitness
+0 5 19
+lineup
+0 5 19
+looking
+0 5 19
+behaviors
+0 5 19
+and
+0 1 2 5 6 7 10 11 12 17 18 19 20 21 24 25 26 31 32 38 40 41 42 43 46 47 51 55 58 59 63 68 71 73 76 77 79 82 92 93 99 100 101 108 115 117 120 120 122 125 130 130 131 132 139 140 142 146
+suspect
+0 5 19
+guilt
+0 5 19 129
+building
+1 6 20
+a
+1 2 3 6 7 8 10 11 12 13 17 18 20 21 22 24 25 26 27 31 32 34 36 40 40 56 59 61 64 69 70 75 76 77 79 81 83 97 99 103 104 104 113 117 118 119 133 134 136 137 138 150
+cardiovascular
+1 6 20
+disease
+1 6 20 61 105
+prediction
+1 6 20 37 45 48 50 55 58 61 62 68 88 98 107 112 136 144
+model
+1 6 20 57 61 64 96 117 125 146
+for
+1 6 11 12 14 15 16 20 25 26 28 29 30 33 36 36 37 37 40 44 48 50 51 53 56 57 59 60 62 64 67 70 71 73 75 79 80 81 82 86 88 90 91 93 94 96 99 102 103 106 109 111 112 113 114 116 117 119 122 125 127 130 135 137 138 139 140 142
+smartwatch
+1 6 20
+users
+1 6 20 54
+learning:
+1 6 20 57 108 149
+based
+1 6 11 20 25 40 57 69 74 75 77 82 91 104 105 112 144 149
+on
+1 6 13 20 27 40 57 69 77 82 91 97 99 108 112 117 140
+the
+1 6 14 20 28 38 39 43 45 48 50 53 56 58 59 63 63 72 74 78 80 84 99 102 103 108 113 116 118 123 145
+korea
+1 6 20
+national
+1 6 20
+health
+1 6 20 107
+nutrition
+1 6 20
+examination
+1 6 20
+survey
+1 6 20 99 133 134 138
+mitigating
+2 7 21
+underreported
+2 7 21
+error
+2 2 7 7 21 21 53
+in
+2 4 7 9 21 23 36 37 41 43 43 45 48 48 53 57 65 67 69 70 72 73 82 85 87 92 95 97 98 100 113 115 118 129 132 133 136 147
+food
+2 7 21
+frequency
+2 7 21
+questionnaire
+2 7 21
+data
+2 7 13 21 27 33 37 39 70 75 83 104 108 130 146
+supervised
+2 7 21 91 128 130 137 146
+method
+2 7 21 75 77 88 102 104
+adjustment
+2 7 21
+algorithm
+2 7 16 21 30 39 57 83
+from
+3 8 22 39 49 78 92 96 99 118 123
+nmr
+3 8 22
+ai:
+3 8 22
+designing
+3 8 22
+novel
+3 8 22 34 59 144
+chemical
+3 8 22
+representation
+3 8 22 62 91
+enhance
+3 8 22
+predictions
+3 8 22
+of
+3 8 10 13 14 14 14 17 18 22 24 27 28 28 28 31 32 35 36 37 40 42 43 44 47 48 49 53 54 55 56 57 58 59 61 63 65 69 74 80 81 82 84 84 84 86 86 89 90 91 92 93 94 95 98 100 102 103 105 107 107 108 110 111 112 113 115 118 118 123 124 128 135 136 137 140 143 144 149
+physicochemical
+3 8 22
+properties
+3 8 22 35 84
+feature
+4 9 23 60 77 114 123
+engineering
+4 9 23
+solution
+4 9 23 117
+with
+4 9 14 16 23 28 30 48 54 69 80 86 97 110 118 124 125 126 128 146 148
+structured
+4 9 23
+query
+4 9 23
+language
+4 9 23
+analytic
+4 9 23
+functions
+4 9 23 149
+detecting
+4 9 23 102
+electricity
+4 9 23
+frauds
+4 9 23
+identification
+10 24 59 82 118
+protein
+10 10 24 24 65 94
+complexes
+10 24
+by
+10 24 44 83 107
+integrating
+10 24
+abundance
+10 24
+interaction
+10 24 45 115 135
+features
+10 14 24 28 40 93
+deep
+10 11 13 14 24 25 27 28 41 46 53 57 57 59 66 71 79 80 95 96 97 102 103 109 110 112 113 114 116 124 125 138 139 144 148
+strategy
+10 24 40 88 145
+radiomics
+11 25
+gastrointestinal
+11 25
+cancer
+11 25 41 64
+diagnosis
+11 25 71 104
+treatment:
+11 25
+minireview
+11 25
+improve
+12 26
+personalised
+12 26
+prediction:
+12 26
+data-driven
+12 26
+approach
+12 17 26 31 34 56 66 103 112 144
+segment
+12 26
+stratify
+12 26
+populations
+12 26
+healthcare
+12 26 127
+verifying
+13 27
+explainability
+13 27
+tissue
+13 27
+classifier
+13 27
+trained
+13 27
+rna-seq
+13 27
+development
+14 28 76 140
+technique
+14 28
+analysis
+14 16 28 30 42 53 57 69 75 100 137 146
+clinical
+14 28 85 92 96 96 101
+images
+14 28 105 110 125
+integrated
+14 28
+cann
+14 28
+neural
+15 29 109 124 126 128 143 150
+decoding
+15 29 71
+an
+16 30 47 60 96 112 139 145
+framework
+16 30 36 40
+clustering
+16 30
+selection
+16 30 77 123
+applications
+16 30 43 71 76 111 127
+spectroscopy
+16 30 51 82
+discover
+17 31
+migration
+17 31
+modes
+17 31
+transition
+17 31
+dynamics
+17 31 120 149
+heterogeneous
+17 31
+dendritic
+17 31
+cells
+17 31 86
+use
+18 32
+wearable
+18 32
+electromyography
+18 32
+armband
+18 32
+detect
+18 32
+lift-lower
+18 32
+tasks
+18 32
+classify
+18 32 34
+hand
+18 32
+loads
+18 32
+analytics
+33
+cardiac
+33
+diseases
+33
+criteria
+34
+ards
+34
+severity
+34 90
+inferring
+35
+biophysical
+35
+membranes
+35
+during
+35
+endocytosis
+35
+auto
+36
+classification
+36 51 59 67 75 80 81 82 86 93 116 124 128 139 141
+imaging
+36
+system
+36 123
+exams
+36
+hospital
+36
+setting
+36
+utilization
+36
+optimization
+36 49
+methods
+37 50 67 69 107
+imbalanced
+37 80
+set
+37 60
+faecal
+37
+contamination
+37
+beach
+37
+waters
+37
+uncover
+38
+relation
+38
+age
+38 114
+life
+38 112
+satisfaction
+38
+predicting
+39 40 64 121
+blood
+39
+pressure
+39
+physiological
+39
+index
+39 97
+svr
+39
+low-cost
+40 106
+drug-drug
+40
+interactions
+40
+fusion
+40 70 114
+multiple
+40 75
+parameter
+40
+self-tuning
+40
+recent
+41 45
+advancements
+41
+learning-based
+41 45 129 133
+breast
+41
+detection
+41 56 60 63 70 73 92 113 123 129 133 142
+mammograms
+41
+cattle
+42
+social
+42
+transitional
+42
+behaviour:
+42
+attraction
+42
+repulsion
+42
+[deep
+43
+neuronal
+43
+networks
+43 70 81 109 124 128 142
+ophthalmology
+43
+:
+43 83
+field
+43
+optical
+43
+coherence
+43
+tomography]
+43
+enhancement
+44
+microbiome
+44
+management
+44 111
+biological
+44 110
+wastewater
+44 67
+treatment
+44 67 71
+advances
+45 65
+drug-target
+45
+basic
+46 82
+artificial
+46 58 92 111 125 132
+intelligence
+46 58 92 111 125 132
+techniques:
+46
+computer
+47
+aid
+47
+screening
+47 100
+covid-19
+47 137
+x-ray
+47
+ct
+47 105
+scan
+47
+images:
+47 99
+inner
+47
+comparison
+47 137
+volume
+48
+responsiveness
+48
+patients
+48 92 118
+oliguric
+48
+acute
+48
+kidney
+48
+injury
+48
+critical
+48
+care
+48
+learning-assisted
+49
+tbbpa-bis-(2,3-dibromopropyl
+49
+ether)
+49
+extraction
+49 93
+process
+49 150
+abs
+49
+polymer
+49
+statistical
+50
+machine-learning
+50
+genomic
+50
+skm
+50
+library
+50
+training
+51 150
+evaluating
+51
+algorithms
+51 64 90 121 125 130
+ocean
+51
+microplastics
+51
+through
+51 115
+vibrational
+51
+photorealistic
+52
+monocular
+52
+gaze
+52
+redirection
+52
+bayesian
+53 128
+estimation
+53 99 114
+anomalous
+53
+diffusion
+53
+exploring
+54
+abnormal
+54
+behavior
+54
+patterns
+54 86
+online
+54
+emotional
+54
+eating
+54
+behavior:
+54
+topic
+54
+modeling
+54 65 89 122 131
+study
+54 56 81
+rapid
+55
+bacterial
+55
+heterotrophic
+55
+fluxomics
+55
+constraint
+55
+programming
+55
+vitamin
+56
+d
+56
+level:
+56
+comparative
+56 81
+application
+57 98
+distributed
+57
+probability
+57
+sports
+57
+belief
+57
+network
+57 63 98 104 143 150
+(dl-dbn)
+57
+human
+57 148
+behaviour
+57 116
+learning,
+58
+dementia
+58
+deepnec:
+59
+alignment-free
+59
+tool
+59
+nitrogen
+59
+biochemical
+59
+network-related
+59
+enzymes
+59
+towards
+60 104 111 125
+explainable
+60 92
+universal
+60
+iot
+60 102
+intrusion
+60 63 70 113
+implementation
+61
+heart
+61 93
+risk
+61 89
+transfer
+62 91
+differentially
+62
+private
+62
+drug
+62 98
+sensitivity
+62
+proposition
+63
+evaluation
+63 125
+roedunet-simargl2021
+63
+dataset
+63 80
+cervical
+64
+session
+65
+introduction:
+65
+ai-driven
+65
+structure
+65 77
+text-based
+66
+emotion
+66
+recognition
+66 96 105 140
+anomaly
+67 133
+plants
+67
+generative
+68 104
+imputation
+68
+stochastic
+68
+intelligent
+69
+carbendazim
+69
+agricultural
+69
+products
+69 108
+zshpc/mwcnt/spe
+69
+portable
+69 106
+nanosensor
+69
+combined
+69
+mind:
+70
+multi-source
+70
+scheme
+70
+planning
+71
+overcoming
+72
+field-of-view
+72
+diameter
+72
+trade-off
+72
+microendoscopy
+72
+via
+72 84 114
+computational
+72
+optrode-array
+72
+microscopy
+72
+film:
+73
+filtering
+73
+malware
+73
+edge
+73 117
+computing
+73
+frontier
+74
+orbital
+74
+energies
+74 120
+subpc
+74
+triads
+74
+topological
+75
+measurements
+75 90
+aided
+76
+dimensionality
+76
+reduction
+76
+toward
+76 144
+resource
+76
+efficient
+76
+projective
+76
+quantum
+76
+eigensolver:
+76
+formal
+76
+pilot
+76
+wrapper
+77
+subset
+77
+randomized
+77
+search
+77
+multilayer
+77
+good
+78
+practices:
+78
+learnings
+78
+modern
+78
+pharmaceutical
+78
+discovery
+78 98 103
+enterprise
+78
+pheno-deep
+79
+counter:
+79
+unified
+79
+versatile
+79
+architecture
+79 113 126
+leaf
+79
+counting
+79
+solving
+80
+problem
+80
+synthetic
+80
+image
+80 86 87 139
+generation
+80 104
+cell
+80
+traffic
+81
+techniques
+81
+smart
+81
+city
+81
+research
+82 97
+organophosphorus
+82
+pesticides
+82
+water
+82
+ultraviolet-visible
+82
+information
+82
+characterizing
+83
+opioid
+83
+overdoses
+83
+emergency
+83
+medical
+83 95 111 125
+services
+83 117
+case
+83 119
+definition
+83
+enhanced
+83
+reaction
+84 84
+learned
+84
+representations
+84
+condensed
+84
+graph
+84
+decision
+85 108
+making
+85
+diffraction
+86
+accurate
+86 96
+modeled
+86
+different
+86 149
+nuclear
+86
+sizes
+86
+magnetic
+87 115
+resonance
+87
+imaging:
+87
+reconstruction
+87
+soil
+88
+nutrients
+88
+spectroscopic
+88
+spatial
+89
+maritime
+89
+investigations
+90
+level
+90
+diabetic
+90
+macular
+90
+oedema
+90
+various
+91
+levels
+91
+pediatric
+91
+radiographic
+91
+views
+91
+anemic
+92
+condition
+92
+markers
+92
+assessment
+93 94
+diagnosis-relevant
+93
+murmur
+93
+approaches
+94 95
+quality
+94 111
+structures
+94
+outperform
+95
+conventional
+95
+strategies
+95
+de-identification
+95
+german
+95
+reports
+95
+entity
+96
+notes
+96
+rate
+97
+energy
+97
+link
+98
+synergies
+99
+binocular
+99
+stereo
+99
+depth
+99
+automation
+100
+systematic
+100
+reviews:
+100
+tools
+100
+their
+100
+capabilities
+100
+neurophysiology
+101
+cross
+102
+effectively
+102
+propagation
+102
+botnet
+102
+optncminer:
+103
+natural
+103
+compounds
+103
+modulating
+103
+disease-specific
+103
+multi-targets
+103
+adversarial
+104
+rolling
+104
+bearing
+104
+fault
+104
+covid
+105
+-19
+105
+sirm
+105
+database
+105
+assisted
+106
+metamaterial-based
+106
+reconfigurable
+106
+antenna
+106
+electronic
+106
+devices
+106
+mental
+107
+support
+107 147
+employee
+107
+perceiving
+107
+safety
+108
+cyber-physical
+108
+systems,
+108
+sciences,
+108
+rank-based
+109
+pooling
+109
+convolutional
+109
+rootpainter:
+110
+segmentation
+110 139
+corrective
+110
+annotation
+110
+systems
+111
+interactive
+112
+shelf
+112
+muskmelons
+112
+active
+112
+hdl-ids:
+113
+hybrid
+113
+internet
+113 144
+vehicles
+113
+random
+114
+forest
+114
+facial
+114
+increasing
+115
+efficiency
+115
+accuracy
+115
+calculations
+115
+colloidal
+115
+simulation
+115
+reaching
+116
+ceiling?
+116
+empirical
+116
+scaling
+116
+eeg
+116
+pathology
+116
+joint
+117
+provisioning
+117
+request
+117
+dispatch
+117
+low-latency
+117
+inference
+117
+gene
+118
+signatures
+118
+extranodal
+118
+nk/t-cell
+118
+lymphoma
+118
+pair
+118
+twins
+118
+massive
+119
+technological
+119
+unemployment
+119
+without
+119
+redistribution:
+119
+cautious
+119
+optimism
+119
+combining
+120
+molecular
+120
+predict
+120
+self-solvation
+120
+free
+120
+limiting
+120
+activity
+120 140
+coefficients
+120
+enhancing
+121 123
+construction
+121
+safety:
+121
+worker
+121
+sleep
+121
+deprivation
+121
+radiomics-based
+122
+multimodality
+122
+multiparametric
+122
+efficacy
+123
+depression
+123
+optimal
+123
+ehr
+123
+ml-net:
+124
+multi-label
+124
+biomedical
+124 132
+texts
+124
+endoluminal
+125
+larynx
+125
+anatomy
+125
+-
+125
+facilitating
+125
+defining
+125
+standards
+125
+unsupervised
+126 130 134
+foveal
+126
+vision
+126
+top-down
+126
+attention
+126
+identifying
+127
+ethical
+127
+considerations
+127
+pathological
+128
+perturbations
+128
+text
+129
+bioinformatics
+130
+science
+130
+microbial
+131
+communities:
+131
+perspective
+131
+challenges
+131
+special
+132
+series
+132 138
+guest
+132
+editorial:
+132
+optics
+132
+nfv:
+133
+comprehensive
+133
+source-free
+134
+domain
+134
+adaptation:
+134
+microscopic
+135
+ingredients
+135
+graphene
+135
+oxide/cellulose
+135
+alternative
+136 145
+gasoline
+136
+sorption
+136
+semicrystalline
+136
+poly(ethylene)
+136
+performance
+137
+models
+137 140 144 148
+tweets
+137
+sentiment
+137
+time
+138
+forecasting:
+138
+instantdl:
+139
+easy-to-use
+139
+pipeline
+139
+validation
+140
+smartwatch-based
+140
+rigging
+140
+crew
+140
+workers
+140
+cable
+140
+logging
+140
+operations
+140
+comparing
+141
+models-a
+141
+practical
+141
+tutorial
+141
+ml-based
+142
+delay
+142
+attack
+142
+isolation
+142
+fault-tolerant
+142
+software-defined
+142
+industrial
+142
+four
+143
+generations
+143
+high-dimensional
+143
+potentials
+143
+things
+144
+diabetes
+144
+black
+145
+box:
+145
+compositional
+146
+(machine-)learning
+147
+analyze
+147
+vivo
+147
+microscopy:
+147
+vector
+147
+machines
+147
+multiphysics:
+148
+coupling
+148
+discrete
+148
+multiphysics
+148
+attain
+148
+self-learning
+148
+in-silico
+148
+replicating
+148
+physiology
+148
+nonlinear
+149 149
+utilizing
+149
+dynamics-based
+149
+flexibility
+149
+circuits
+149
+implement
+149
+as
+150
+dissipative
+150
